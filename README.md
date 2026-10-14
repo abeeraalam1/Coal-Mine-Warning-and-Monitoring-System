@@ -1,1 +1,0 @@
-# Coal-Mine-Warning-and-Monitoring-System
