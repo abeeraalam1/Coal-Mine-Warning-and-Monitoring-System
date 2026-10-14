@@ -101,6 +101,3 @@ The notebooks are written for **Google Colab** and read images from Google Drive
 - Gas concentrations are **estimates** from uncalibrated, low-cost MQ sensors. This is a prototype, not certified safety equipment.
 - The classifier was trained on a small dataset; more data and pretrained weights would likely improve accuracy.
 
-## Contributors
-
-[Abeera Alam](https://github.com/abeeraalam1) and [mr05498](https://github.com/mr05498).
